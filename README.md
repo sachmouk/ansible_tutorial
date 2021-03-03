@@ -1,4 +1,2 @@
 # ansible_tutorial
-ffff
-dddd
-dd
+This is my awesome ansible tutorial 
